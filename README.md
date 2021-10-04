@@ -1,0 +1,2 @@
+# Churn-Prediction-for-Food-Delivery-Platform
+Investigating a number of models to see which customers were more likely to churn a food delivery  platform. Customer churn is something that no business wants to encounter. It is necessary to know which  customers are most likely to churn so that efforts can be taken to prevent them from leaving. A typical  ‘classification' issue is separating loyal customers from those who are prone to churn. To avoid a loss of  business.
